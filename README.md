@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @autism-101
 - 👀 I’m interested in helping newly diagnosed autistic people.
-- 🌱 I’m currently learning hugo|tailwindcss|reveal.js|forestry.io|cloudinary-pages|
+- 🌱 I’m currently learning hugo, tailwindcss, reveal.js, forestry.io, cloudinary-pages
 - 💞️ I’m looking to collaborate on website development
 - 📫 How to reach me contact@autism-101.com
 
